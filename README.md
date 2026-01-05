@@ -21,17 +21,15 @@
 ---
 
 ## About
-Ich baue moderne Frontends mit Fokus auf **clean UI**, **saubere Code-Strukturen**
-und **gute UX**.
+Frotend Developer
 
-- 🔭 Aktuell: Frontend Projekte
-- 🌱 Fokus: React, TypeScript, Component Architecture
-- 💬 Topics: HTML, CSS, JavaScript, React, TS
-- ⚡ Fun Fact: Liebe minimalistische Interfaces
+# Projekte
+- Grace Roleplay
+- Texx Scripts
 
 ---
 
-## Tech Stack
+## Skills
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,git,github&perline=7" />
 </p>
