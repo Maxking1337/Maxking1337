@@ -41,10 +41,6 @@ Frotend Developer
 
 ---
 
-
-
----
-
 <p align="center">
   <img
     src="https://media.giphy.com/media/KmXKSyoulpBXuu2Cx2/giphy.gif"
