@@ -36,10 +36,7 @@ Frotend Developer
 
 ---
 
-## Now
-- 🚀 Arbeite an eigenen Frontend-Projekten
-- 🧠 Vertiefe React Patterns & TypeScript
-- 🤝 Offen für UI-lastige Collabs
+
 
 ---
 
