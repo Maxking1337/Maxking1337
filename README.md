@@ -1,10 +1,3 @@
-<!-- =======================
-     Profile README: Maxking1337
-     ======================= -->
-
-
-
-
 <p align="center">
   <img 
     src="https://avatars.githubusercontent.com/u/182240876?v=4"
