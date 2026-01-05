@@ -45,14 +45,14 @@
 
 ---
 
-## 🧰 Tech Stack
+## Coding
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,git,github&perline=7" />
 </p>
 
 ---
 
-## 💻 Coding Animation (100 % sicher)
+## 
 
 <p align="center">
   <img
