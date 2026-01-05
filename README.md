@@ -86,3 +86,9 @@
     alt="footer"
   />
 </p>
+
+
+
+<p align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="snake animation" />
+</p>
