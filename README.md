@@ -63,7 +63,7 @@
 
 ## 💻 Coding Animation (100 % sicher)
 <p align="center">
-  <img src="https://i.imgur.com/8MupZHY.gif" height="140" alt="coding gif" />
+  <img src="[https://i.imgur.com/8MupZHY.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejYzcXAycnkwbWgxdTh2ZXJxbTZvNzV0bDBrdGw3dXBneWxlY3V3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KmXKSyoulpBXuu2Cx2/giphy.gif)" height="140" alt="coding gif" />
 </p>
 
 ---
