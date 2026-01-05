@@ -15,7 +15,7 @@
 
 
 <h3 align="center">
-  Frontend Developer · React / TypeScript · Clean UI
+  Frontend Developer · React / TypeScript · HTML · CSS · JavaScript
 </h3>
 
 <p align="center">
