@@ -34,7 +34,7 @@
 ---
 
 ## About
-Frotend Developer
+Frotend Developer 
 
 # Projekte
 - Grace Roleplay
