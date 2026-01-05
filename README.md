@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/Maxking1337">GitHub</a> ·
-  <a href="https://discord.gg/RDB8fgVzqQ">Discord</a> ·
+  <a href="https://discord.gg/RDB8fgVzqQ">Discord</a> 
 </p>
 
 ---
