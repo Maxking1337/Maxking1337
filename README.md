@@ -9,6 +9,11 @@
   />
 </p>
 
+<p align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="snake animation" />
+</p>
+
+
 <h3 align="center">
   Frontend Developer · React / TypeScript · Clean UI
 </h3>
@@ -50,6 +55,4 @@ Frotend Developer
 
 ---
 
-<p align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="snake animation" />
-</p>
+
