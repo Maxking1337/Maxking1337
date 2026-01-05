@@ -8,7 +8,7 @@
 </p>
 
 <h2 align="center">
-  Was geht, ich bin <span style="color:#3fb950;">Maxking1337</span>
+  <span style="color:#3fb950;">Maxking1337</span>
 </h2>
 
 <h4 align="center">
