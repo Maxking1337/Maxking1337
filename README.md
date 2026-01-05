@@ -12,7 +12,7 @@
 </p>
 
 <h2 align="center">
-  Hi, ich bin <span style="color:#3fb950;">Maxking1337</span>
+  Was geht, ich bin <span style="color:#3fb950;">Maxking1337</span>
 </h2>
 
 <h4 align="center">
