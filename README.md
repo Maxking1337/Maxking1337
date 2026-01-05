@@ -78,12 +78,12 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"
     alt="footer"
   />
-</p>
+</p> -->
 
 
 
