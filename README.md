@@ -15,8 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/Maxking1337">GitHub</a> ·
-  <a href="https://discord.gg/">Discord</a> ·
-  <a href="mailto:deinmail@example.com">Mail</a>
+  <a href="https://discord.gg/RDB8fgVzqQ">Discord</a> ·
 </p>
 
 ---
