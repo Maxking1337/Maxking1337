@@ -68,13 +68,13 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="snake animation" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=Maxking1337&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maxking1337&theme=tokyo-night&hide_border=true" />
-</p>
+</p> -->
 
 ---
 
