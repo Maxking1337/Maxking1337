@@ -64,10 +64,8 @@
 
 ---
 
-## 📊 Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Maxking1337&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxking1337&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="snake animation" />
 </p>
 
 <p align="center">
@@ -89,6 +87,4 @@
 
 
 
-<p align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="snake animation" />
-</p>
+
