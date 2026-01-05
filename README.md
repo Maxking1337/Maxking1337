@@ -2,12 +2,7 @@
      Profile README: Maxking1337
      ======================= -->
 
-<style>
-  img {
-    -webkit-user-drag: none;
-    user-select: none; /* optional, verhindert Markieren */
-  }
-</style>
+
 
 
 <p align="center">
