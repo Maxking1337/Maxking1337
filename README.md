@@ -4,61 +4,53 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Hi%20%F0%9F%91%8B%20ich%20bin%20Max&fontAlign=50&fontAlignY=40&color=gradient"
+    src="https://capsule-render.vercel.app/api?type=rect&height=150&text=Max&fontAlign=50&fontAlignY=55&color=0:0B1320,100:0E7490&fontColor=ffffff"
     alt="header"
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%2B+TypeScript;HTML+%2F+CSS+%2F+JavaScript;Build.+Ship.+Repeat."
-    alt="typing animation"
-  />
-</p>
+<h3 align="center">
+  Frontend Developer · React / TypeScript · Clean UI
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Maxking1337&label=Profile%20views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/Maxking1337?label=Followers&style=flat" />
-  <img src="https://img.shields.io/github/stars/Maxking1337?label=Stars&style=flat" />
+  <a href="https://github.com/Maxking1337">GitHub</a> ·
+  <a href="https://discord.gg/">Discord</a> ·
+  <a href="mailto:deinmail@example.com">Mail</a>
 </p>
 
 ---
 
-## 👤 Über mich
-- 🔭 **Aktuell:** Frontend Projekte
-- 🌱 **Lerne:** React & TypeScript
-- 💬 **Frag mich zu:** HTML, CSS, JavaScript, React, TS
-- ⚡ **Fun Fact:** Ich liebe cleanes UI 😄
-- 📫 **Kontakt:** deinmail@example.com
+## About
+Ich baue moderne Frontends mit Fokus auf **clean UI**, **saubere Code-Strukturen**
+und **gute UX**.
+
+- 🔭 Aktuell: Frontend Projekte
+- 🌱 Fokus: React, TypeScript, Component Architecture
+- 💬 Topics: HTML, CSS, JavaScript, React, TS
+- ⚡ Fun Fact: Liebe minimalistische Interfaces
 
 ---
 
-## Links
-<p align="center">
-  <a href="https://discord.gg/" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Maxking1337" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## Coding
+## Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,git,github&perline=7" />
 </p>
 
 ---
 
-## 
+## Now
+- 🚀 Arbeite an eigenen Frontend-Projekten
+- 🧠 Vertiefe React Patterns & TypeScript
+- 🤝 Offen für UI-lastige Collabs
+
+---
 
 <p align="center">
   <img
     src="https://media.giphy.com/media/KmXKSyoulpBXuu2Cx2/giphy.gif"
-    height="140"
-    alt="coding gif"
+    height="130"
+    alt="coding"
   />
 </p>
 
@@ -67,24 +59,3 @@
 <p align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="snake animation" />
 </p>
-
-<!-- <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Maxking1337&theme=tokyonight&hide_border=true" />
-</p> -->
-
-<!-- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maxking1337&theme=tokyo-night&hide_border=true" />
-</p> -->
-
----
-
-<!-- <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"
-    alt="footer"
-  />
-</p> -->
-
-
-
-
