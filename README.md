@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=150&text=Max&fontAlign=50&fontAlignY=55&color=0:0B1320,100:0E7490&fontColor=ffffff"
+    src="https://avatars.githubusercontent.com/u/182240876?v=4"
     alt="header"
   />
 </p>
