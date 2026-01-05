@@ -1,58 +1,101 @@
-<h2 align="left">Hi 👋! Ich bin Max</h2>
+<!-- =======================
+     Profile README: Maxking1337
+     ======================= -->
 
-###
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Hi%20%F0%9F%91%8B%20ich%20bin%20Max&fontAlign=50&fontAlignY=40&color=gradient"
+    alt="header"
+  />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maxking1337&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=de&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Maxking1337&locale=de&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=520&lines=Frontend+Developer;React+%2B+TypeScript;HTML+%2F+CSS+%2F+JavaScript;Build.+Ship.+Repeat."
+    alt="typing"
+  />
+</p>
 
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Maxking1337&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/Maxking1337?label=Followers&style=flat" />
+  <img src="https://img.shields.io/github/stars/Maxking1337?label=Stars&style=flat" />
+</p>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+---
 
-###
+### 👤 Über mich
+- 🔭 Aktuell: **…**
+- 🌱 Lerne: **React / TypeScript**
+- 💬 Frag mich zu: **HTML, CSS, JS, React, TS**
+- ⚡ Fun Fact: **…**
+- 📫 Kontakt: **deinmail@example.com**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
-</div>
+---
 
-###
-
-<div align="left">
+### 🔗 Links
+<p align="center">
   <a href="https://www.youtube.com/@DEINHANDLE" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
   <a href="https://instagram.com/DEINHANDLE" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://twitch.tv/DEINHANDLE" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/badge/Instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://discord.gg/DEININVITE" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="mailto:deinmail@example.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</div>
+  <a href="https://github.com/Maxking1337" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-###
+---
 
-<br clear="both">
+### 🧰 Tech Stack (nur deine)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,git,github&perline=7" />
+</p>
 
-<img src="https://raw.githubusercontent.com/Maxking1337/Maxking1337/output/snake.svg" alt="Snake animation" />
+---
 
-###
+### 📊 Stats
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Maxking1337&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxking1337&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Maxking1337&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maxking1337&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+### 🐍 Contribution Snake (Animation)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Maxking1337/Maxking1337/output/snake.svg" alt="snake animation" />
+</p>
+
+---
+
+<details>
+  <summary><b>📌 Mehr (optional)</b></summary>
+
+  <br/>
+
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Maxking1337&theme=tokyonight&no-frame=true&row=1&column=6" />
+  </p>
+
+  <!-- Repo Cards (ersetze REPO1/REPO2 mit deinen Projekten) -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maxking1337&repo=REPO1&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maxking1337&repo=REPO2&theme=tokyonight&hide_border=true" />
+  </p>
+</details>
