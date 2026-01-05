@@ -18,6 +18,15 @@
   Was geht, ich bin <span style="color:#3fb950;">Maxking1337</span>
 </h2>
 
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3000&pause=800&color=3FB950&center=true&vCenter=true&width=480&lines=Frontend+Developer;React+%2F+TypeScript;Clean+UI+%26+UX"
+    alt="typing intro"
+  />
+</p>
+
+
 <h4 align="center">
   Frontend Developer · React / TypeScript · HTML · CSS · JavaScript
 </h4>
