@@ -38,7 +38,7 @@ Frotend Developer
 
 # Projekte
 - Grace Roleplay
-- Texx Scripts
+- ZyroStudios
 
 ---
 
