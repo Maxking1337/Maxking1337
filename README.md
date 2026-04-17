@@ -1,8 +1,7 @@
 <p align="center">
   <img 
-    src="https://avatars.githubusercontent.com/u/182240876?v=4"
+    src="https://i.ibb.co/cSYZWrHK/Screenshot-20260417-105127-Snapchat.jpg"
     width="140"
-    style="border-radius: 50%; border: 3px solid #3fb950;"
     alt="profile picture"
   />
 </p>
@@ -30,14 +29,12 @@
 
 <hr style="height:1px;border:none;background:linear-gradient(to right, transparent, #3fb950, transparent);" />
 
-
 ---
 
 ## About
-Frotend Developer 
+Frontend Developer 
 
 # Projekte
-- Grace Roleplay
 - ZyroStudios
 
 ---
@@ -56,7 +53,3 @@ Frotend Developer
     alt="coding"
   />
 </p>
-
-
-
-
