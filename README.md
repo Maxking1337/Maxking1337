@@ -18,7 +18,8 @@
   <a href="https://github.com/Maxking1337">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="ZyroStudios">
+
+  <a href="https://discord.com/users/833070542142963712">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
@@ -32,10 +33,11 @@
 ---
 
 ## About
-Frontend Developer 
+Frontend Developer
 
 # Projekte
 - ZyroStudios
+- RoyaleCity
 
 ---
 
