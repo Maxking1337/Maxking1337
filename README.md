@@ -28,14 +28,12 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="snake animation" />
 </p>
 
-<hr style="height:1px;border:none;background:linear-gradient(to right, transparent, #3fb950, transparent);" />
-
 ---
 
 ## About
 Frontend Developer
 
-# Projekte
+## Projekte
 - ZyroStudios
 - RoyaleCity
 
