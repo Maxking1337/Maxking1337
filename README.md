@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://i.ibb.co/cSYZWrHK/Screenshot-20260417-105127-Snapchat.jpg"
+    src="https://i.ibb.co/5hz4XQxx/182240876.png"
     width="140"
     alt="profile picture"
   />
