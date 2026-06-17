@@ -41,7 +41,7 @@ Frontend Developer
 
 ## Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,vue,git,github&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,react,ts,vue,git,github&perline=8" />
 </p>
 
 ---
