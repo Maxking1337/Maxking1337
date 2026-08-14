@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://i.ibb.co/5hz4XQxx/182240876.png"
+    src="https://i.ibb.co/5gzhGRhr/pb-resize.png"
     width="140"
     alt="profile picture"
   />
