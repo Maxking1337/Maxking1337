@@ -34,8 +34,8 @@
 Frontend Developer
 
 ## Projekte
-- ZyroStudios
-- RoyaleCity
+- Fivem Framework (Blaze)
+- Grim Browser (Chromium Based)
 
 ---
 
