@@ -1,7 +1,6 @@
 <p align="center">
   <img 
-    src="https://i.ibb.co/5gzhGRhr/pb-resize.png"
-    width="140"
+    src="https://image.max1337.xyz//uploads/cbc08a81c0759222.png"
     alt="profile picture"
   />
 </p>
