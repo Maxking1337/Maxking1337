@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
 
-  <a href="https://discord.com/users/833070542142963712">
+  <a href="https://discord.gg/xk4ZgVp3Rd">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
