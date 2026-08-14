@@ -2,6 +2,7 @@
   <img 
     src="https://image.max1337.xyz//uploads/cbc08a81c0759222.png"
     alt="profile picture"
+    width="200"
   />
 </p>
 
