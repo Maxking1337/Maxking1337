@@ -14,10 +14,7 @@
   Frontend Developer · React / TypeScript · HTML · CSS · JavaScript
 </h4>
 
-<h4 align="center">
-    <a href="https://max1337.xyz">
-  </a>
-</h4>
+
 
 <p align="center">
   <a href="https://github.com/Maxking1337">
