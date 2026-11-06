@@ -34,9 +34,7 @@
 Frontend Developer
 
 ## Projekte
-- Zyro Studios (v2 Comeback)
-- Fivem Framework (Blaze)
-- Grim Browser (Chromium Based)
+- soon
 
 ---
 
